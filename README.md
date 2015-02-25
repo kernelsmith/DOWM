@@ -1,2 +1,2 @@
 # DOWM
-A Dashing.io office weather map widget/app
+A Dashing.io office Wunderground weather map widget/app
